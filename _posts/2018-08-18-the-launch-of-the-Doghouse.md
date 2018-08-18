@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "BWAAAAASSS"
 date: 2018-08-18
 ---
 
