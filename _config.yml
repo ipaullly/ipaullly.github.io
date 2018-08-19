@@ -1,2 +1,3 @@
 name: Paul Morogo, Nuanced Nullifidian
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
